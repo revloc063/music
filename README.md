@@ -1,12 +1,12 @@
 # music
-Song Gallery
+# Song Gallery
 -Displays songs
 -You can delete songs from the gallery (but it won't delete them from playlists)
 -You can add songs to the various playlists by clicking the respective buttons
-Create Songs
+# Create Songs
 -You can create a song
 -The song should display below the inputs once you succesfully create it
-View Playlists
+# View Playlists
 -You can create playlists with a title and description
 -All playlists are displayed here with all the songs they contain
 -You can delete a playlist
