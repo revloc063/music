@@ -1,7 +1,7 @@
 # music
 # Song Gallery
--Displays songs
--You can delete songs from the gallery (but it won't delete them from playlists)
+##Displays songs
+##You can delete songs from the gallery (but it won't delete them from playlists)
 -You can add songs to the various playlists by clicking the respective buttons
 # Create Songs
 -You can create a song
